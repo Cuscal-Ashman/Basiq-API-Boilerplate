@@ -20,6 +20,7 @@ Welcome to the **Basiq API Boilerplate** repository! This project provides a set
 2. **Install Dependencies** Navigate to the relevant directory and install the dependencies as required. For example:
    ```bash
     cd path/to/your/project
-    npm install
+    yarn install
+    yarn run dev
 4. **Configure Your Environment** Follow the setup instructions in the respective directories to configure your environment.
 5. **Explore the Code** Review the code samples provided in the repository to understand how to use the Basiq API. 

@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "apiversion3",
+      "source": "https://raw.githubusercontent.com/basiqio/api-ref/main/core.yml",
+      "integrity": "sha512-hBXGNhe+CE+prisd0D6XOfpVO6iWlhSCoCXaVdsoWG2t52rveqreh6ZowT703e1QljaB2/ChhuMjMvjzuzsRMQ==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}

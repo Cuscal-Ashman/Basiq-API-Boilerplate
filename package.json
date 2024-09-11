@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@api/apiversion3": "file:.api/apis/apiversion3"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}

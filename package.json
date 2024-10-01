@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@api/apiversion3": "file:.api/apis/apiversion3"
+    "@api/apiversion3": "file:.api/apis/apiversion3",
+    "path-to-regexp": "^6.3.0"
   },
   "main": "index.js",
   "license": "MIT",

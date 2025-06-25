@@ -2,7 +2,7 @@
   "dependencies": {
     "@api/apiversion3": "file:.api/apis/apiversion3",
     "path-to-regexp": "^6.3.0",
-    "jsonpath-plus": "^10.2.0"
+    "jsonpath-plus": "^10.3.0"
   },
   "main": "index.js",
   "license": "MIT",
